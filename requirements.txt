@@ -1,0 +1,6 @@
+flask
+wheel
+grpcio
+flask_cors
+gunicorn
+Pillow
